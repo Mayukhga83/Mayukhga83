@@ -2,8 +2,8 @@
 
 AI Engineer | AI Engineer | LLM Systems | Agentic AI | RAG | Evaluation
 
-PhD in Computer Science focused on Large Language Models. I build  research and production-oriented AI systems
-covering agents, retrieval, evaluation, inference and observability.
+PhD in Computer Science focused on Large Language Model's safety and evaluation. I build production-oriented AI systems
+covering agents, retrieval, evaluation, inference and observability. I develop and ship Agentic AI applications in the App Store.
 
 · [Hugging Face](https://huggingface.co/Kurapika993) · [Google-scholar](https://scholar.google.com/citations?user=t-MVXRMAAAAJ&hl=en) ·  [Email](mailto:mayukh@ifis.cs.tu-bs.de)
 
