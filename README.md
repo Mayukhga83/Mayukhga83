@@ -2,8 +2,7 @@
 
 AI Engineer | LLM Systems | Agentic AI | RAG | Evaluation
 
-PhD in Computer Science focused on limitations and bias in
-Large Language Models. I build production-oriented AI systems
+PhD in Computer Science focused on Large Language Models. I build production-oriented AI systems
 covering agents, retrieval, evaluation, inference and observability.
 
 [GitHub](https://github.com/Mayukhga83) · [Hugging Face](https://huggingface.co/Kurapika993) · [Email](mailto:mayukh@ifis.cs.tu-bs.de)
@@ -12,9 +11,18 @@ covering agents, retrieval, evaluation, inference and observability.
 
 ## Featured Engineering Projects
 
+### 📚 PaperMind
+
+Citation-grounded multi-document research assistant using hybrid
+retrieval, reranking and citation verification supporting claim verification and idea generation.
+
+**Stack:** RAG · BM25 · BGE reranker · ChromaDB · Docker
+
+[Live Demo](https://huggingface.co/spaces/Kurapika993/papermind) · [App Video](https://youtu.be/tT4dcX8UNFQ)
+
 ### 🤖 Dialectica AI
 
-Multi-agent evidence reasoning platform using LangGraph and MCP.
+Multi-agent evidence reasoning platform for scientific papers using LangGraph and MCP.
 
 **Stack:** Python · LangGraph · MCP · ChromaDB · OpenAI · Streamlit
 
@@ -29,42 +37,11 @@ quantization, batching and caching.
 
 [Live Demo](https://inferopt-9vybhtkqbnubo5px3layk7.streamlit.app/) · [App Video](https://youtu.be/HNEkd8DBdiY)
 
-### 📚 PaperMind
-
-Citation-grounded multi-document research assistant using hybrid
-retrieval, reranking and citation verification.
-
-**Stack:** RAG · BM25 · BGE · ChromaDB · Docker
-
-[Live Demo](https://huggingface.co/spaces/Kurapika993/papermind) · [App Video](https://youtu.be/tT4dcX8UNFQ)
-
 ---
 
-## Open Source Contributions
+## Open Source LLM Model Contribution
 
-* Hugging Face Transformers ecosystem
-* Bug fixes / documentation / tutorials
-* Other merged pull requests
-
----
-
-## Research
-
-**PhD — TU Braunschweig**
-
-Research areas:
-
-* Large Language Models
-* LLM evaluation
-* Bias and AI safety
-* NLP
-* Reasoning
-
-Selected publications:
-
-* COLING 2022 — Quantifying Bias from Decoding Techniques in Natural Language Generation
-* [SIGDIAL 2024 — Toximatics: Towards Understanding Toxicity in Real-Life Social Situations](https://aclanthology.org/2024.sigdial-1.65/)
-* [INLG 2025 — From Prototypical to Relational: How LLMs Navigate Complex Analogies](https://aclanthology.org/2025.inlg-main.28/)
+See my [Hugging Face](https://huggingface.co/Kurapika993) model Page. I finetune PEFT, LoRA, QLORA Models and share with the community
 
 ---
 
@@ -89,6 +66,6 @@ Python · PyTorch · scikit-learn · Git · Linux
 
 ## Currently
 
-🔭 Building production-oriented LLM systems
+🔭 Building, shipping and continuous developement of production-oriented LLM systems in App Store
 🌱 Exploring AI safety and agentic evaluation
-💼 Open to AI Engineer / LLM Engineer / Agentic AI roles
+💼 Open to AI Engineer / LLM Engineer / AI researcher roles
