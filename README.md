@@ -9,7 +9,7 @@ covering agents, retrieval, evaluation, inference and observability.
 
 ---
 
-## Featured Engineering Projects
+## Featured AI Engineering Projects
 
 ### 📚 PaperMind
 
