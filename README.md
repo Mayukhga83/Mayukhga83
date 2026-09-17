@@ -1,11 +1,11 @@
 # Mayukh Das, PhD
 
-AI Engineer | LLM Systems | Agentic AI | RAG | Evaluation
+AI Engineer | AI Engineer | LLM Systems | Agentic AI | RAG | Evaluation
 
 PhD in Computer Science focused on Large Language Models. I build  research and production-oriented AI systems
 covering agents, retrieval, evaluation, inference and observability.
 
-[GitHub](https://github.com/Mayukhga83) · [Hugging Face](https://huggingface.co/Kurapika993) · [Email](mailto:mayukh@ifis.cs.tu-bs.de)
+· [Hugging Face](https://huggingface.co/Kurapika993) · [Google-scholar](https://scholar.google.com/citations?user=t-MVXRMAAAAJ&hl=en) ·  [Email](mailto:mayukh@ifis.cs.tu-bs.de)
 
 ---
 
