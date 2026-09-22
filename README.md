@@ -4,7 +4,7 @@
 
 PhD in Computer Science specializing in Large Language Model safety and evaluation. I build and ship agentic AI applications on the App Store and develop production-oriented AI systems spanning agents, retrieval, evaluation, inference, and observability. My work bridges applied AI engineering and research
 
-[Hugging Face](https://huggingface.co/Kurapika993)   |   [Google-scholar](https://scholar.google.com/citations?user=t-MVXRMAAAAJ&hl=en)  
+[Hugging Face](https://huggingface.co/Kurapika993)       [Google-scholar](https://scholar.google.com/citations?user=t-MVXRMAAAAJ&hl=en)  
 
 ---
 
@@ -17,7 +17,7 @@ retrieval, reranking and citation verification supporting claim verification and
 
 **Stack:** RAG · BM25 · BGE reranker · ChromaDB · Docker
 
-[Live Demo](https://huggingface.co/spaces/Kurapika993/papermind)   |   [App Video](https://youtu.be/tT4dcX8UNFQ)
+[Live Demo](https://huggingface.co/spaces/Kurapika993/papermind)       [App Video](https://youtu.be/tT4dcX8UNFQ)
 
 ### 🤖 Dialectica AI
 
@@ -25,7 +25,7 @@ Multi-agent evidence reasoning platform for scientific papers using LangGraph an
 
 **Stack:** Python · LangGraph · MCP · ChromaDB · OpenAI · Streamlit
 
-[Live Demo](https://dialectica-ai-xeezviwufs8dvaeww4novu.streamlit.app/)   |   [App Video](https://youtu.be/aYM6Sjj3aEM)
+[Live Demo](https://dialectica-ai-xeezviwufs8dvaeww4novu.streamlit.app/)       [App Video](https://youtu.be/aYM6Sjj3aEM)
 
 ### ⚡ InferOpt Cloud
 
@@ -34,7 +34,7 @@ quantization, batching and caching.
 
 **Stack:** vLLM · Transformers · PyTorch · MLflow · OpenTelemetry
 
-[Live Demo](https://inferopt-9vybhtkqbnubo5px3layk7.streamlit.app/)   |   [App Video](https://youtu.be/HNEkd8DBdiY)
+[Live Demo](https://inferopt-9vybhtkqbnubo5px3layk7.streamlit.app/)       [App Video](https://youtu.be/HNEkd8DBdiY)
 
 ---
 
