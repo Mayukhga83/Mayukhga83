@@ -17,7 +17,7 @@ retrieval, reranking and citation verification supporting claim verification and
 
 **Stack:** RAG · BM25 · BGE reranker · ChromaDB · Docker
 
-[Live Demo](https://huggingface.co/spaces/Kurapika993/papermind)       [App Video](https://youtu.be/tT4dcX8UNFQ)
+[Live Demo](https://huggingface.co/spaces/Kurapika993/papermind)&nbsp;&nbsp;&nbsp;&nbsp;[App Video](https://youtu.be/tT4dcX8UNFQ)
 
 ### 🤖 Dialectica AI
 
