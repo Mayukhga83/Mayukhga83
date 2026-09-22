@@ -1,6 +1,6 @@
 # Mayukh Das, PhD
 
-AI Engineer | AI Engineer | LLM Systems | Agentic AI | RAG | Evaluation
+| LLM Engineer | Agentic AI | RAG | Evaluation |
 
 PhD in Computer Science specializing in Large Language Model safety and evaluation. I build and ship agentic AI applications on the App Store and develop production-oriented AI systems spanning agents, retrieval, evaluation, inference, and observability. My work bridges applied AI engineering and research
 
@@ -62,9 +62,3 @@ ChromaDB · FAISS · SQL · Knowledge Graphs
 Python · PyTorch · scikit-learn · Git · Linux
 
 ---
-
-## Currently
-
-🔭 Building, shipping and continuous developement of production-oriented LLM systems in App Store
-🌱 Exploring AI safety and agentic evaluation
-💼 Open to AI Engineer / LLM Engineer / AI researcher roles
