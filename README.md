@@ -38,9 +38,3 @@ quantization, batching and caching.
 
 ---
 
-## Open Source LLM Model Contribution
-
-See my [Hugging Face](https://huggingface.co/Kurapika993) model Page. I finetune PEFT, LoRA, QLORA Models and share with the community
-
----
-
