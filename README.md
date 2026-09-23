@@ -44,21 +44,3 @@ See my [Hugging Face](https://huggingface.co/Kurapika993) model Page. I finetune
 
 ---
 
-## Technical Stack
-
-**LLMs**
-Transformers · RAG · Fine-tuning · LoRA/QLoRA · Evaluation
-
-**Agentic AI**
-LangGraph · MCP · Multi-agent systems
-
-**Infrastructure**
-Docker · MLflow · OpenTelemetry · vLLM · FastAPI
-
-**Data**
-ChromaDB · FAISS · SQL · Knowledge Graphs
-
-**Core**
-Python · PyTorch · scikit-learn · Git · Linux
-
----
