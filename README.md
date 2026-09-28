@@ -1,12 +1,4 @@
-# Mayukh Das, PhD
-
-| LLM Engineer | Agentic AI | RAG | Evaluation |
-
-PhD in Computer Science specializing in Large Language Model safety and evaluation. I build and ship agentic AI applications on the App Store and develop production-oriented AI systems spanning agents, retrieval, evaluation, inference, and observability. My work bridges applied AI engineering and research
-
 [Hugging Face](https://huggingface.co/Kurapika993)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Google-scholar](https://scholar.google.com/citations?user=t-MVXRMAAAAJ&hl=en)  
-
----
 
 ## Featured AI Engineering Projects
 
@@ -26,15 +18,3 @@ Multi-agent evidence reasoning platform for scientific papers using LangGraph an
 **Stack:** Python · LangGraph · MCP · ChromaDB · OpenAI · Streamlit
 
 [Live Demo](https://dialectica-ai-xeezviwufs8dvaeww4novu.streamlit.app/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[App Video](https://youtu.be/aYM6Sjj3aEM)
-
-### ⚡ InferOpt Cloud
-
-LLM inference optimization workbench for benchmarking serving,
-quantization, batching and caching.
-
-**Stack:** vLLM · Transformers · PyTorch · MLflow · OpenTelemetry
-
-[Live Demo](https://inferopt-9vybhtkqbnubo5px3layk7.streamlit.app/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[App Video](https://youtu.be/HNEkd8DBdiY)
-
----
-
