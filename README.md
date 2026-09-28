@@ -17,4 +17,4 @@ Multi-agent evidence reasoning platform for scientific papers using LangGraph an
 
 **Stack:** Python · LangGraph · MCP · ChromaDB · OpenAI · Streamlit
 
-[Demo](https://dialectica-ai-xeezviwufs8dvaeww4novu.streamlit.app/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Video](https://youtu.be/aYM6Sjj3aEM)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[code](https://github.com/Mayukhga83/Dialectica-AI)
+[demo](https://dialectica-ai-xeezviwufs8dvaeww4novu.streamlit.app/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[video](https://youtu.be/aYM6Sjj3aEM)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[code](https://github.com/Mayukhga83/Dialectica-AI)
