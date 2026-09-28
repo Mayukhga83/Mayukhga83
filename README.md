@@ -9,7 +9,7 @@ retrieval, reranking and citation verification supporting claim verification and
 
 **Stack:** RAG · BM25 · BGE reranker · ChromaDB · Docker
 
-[Live Demo](https://huggingface.co/spaces/Kurapika993/papermind)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[App Video](https://youtu.be/tT4dcX8UNFQ)
+[demo](https://huggingface.co/spaces/Kurapika993/papermind)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[video](https://youtu.be/tT4dcX8UNFQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[code]([https://youtu.be/tT4dcX8UNFQ](https://github.com/Mayukhga83/PaperMind))
 
 ### 🤖 Dialectica AI
 
@@ -17,4 +17,4 @@ Multi-agent evidence reasoning platform for scientific papers using LangGraph an
 
 **Stack:** Python · LangGraph · MCP · ChromaDB · OpenAI · Streamlit
 
-[Live Demo](https://dialectica-ai-xeezviwufs8dvaeww4novu.streamlit.app/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[App Video](https://youtu.be/aYM6Sjj3aEM)
+[Demo](https://dialectica-ai-xeezviwufs8dvaeww4novu.streamlit.app/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Video](https://youtu.be/aYM6Sjj3aEM)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[code](https://github.com/Mayukhga83/Dialectica-AI)
