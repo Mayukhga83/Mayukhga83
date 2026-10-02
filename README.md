@@ -1,5 +1,5 @@
 ## My iOS and iPadOS app will be available on the App Store soon
-You can currently download and test the beta through TestFlight:        [DocEasy Ai](https://testflight.apple.com/join/HCUVgKJ1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Pocket Literature Review](https://testflight.apple.com/join/QGz9qbzU)
+You can currently download and test the beta through TestFlight:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        [DocEasy Ai](https://testflight.apple.com/join/HCUVgKJ1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Pocket Literature Review](https://testflight.apple.com/join/QGz9qbzU)
 
 ## Featured AI System Projects
 
